@@ -1,13 +1,13 @@
 <h1 align="center">Book Keeper</h1>
 
 <p align="center">A simple bookkeeping application.</p>
-
+![output](book_keeper-1.png)
 ---
 
 <h1 align="center">Navigated Navigation</h1>
 
 <p align="center">A navigation system with advanced features for smooth browsing.</p>
-
+![output](<animated navigation-1.png>)
 ---
 
 <h1 align="center">Custom Countdown</h1>
