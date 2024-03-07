@@ -1,13 +1,15 @@
 <h1 align="center">Book Keeper</h1>
 
 <p align="center">A simple bookkeeping application.</p>
-![output](book_keeper-1.png)
+<img width="947" alt="book_keeper" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/815c22ec-0c81-4969-a305-3c77e5d33c1b">
+
 ---
 
 <h1 align="center">Navigated Navigation</h1>
 
 <p align="center">A navigation system with advanced features for smooth browsing.</p>
-![output](<animated navigation-1.png>)
+<img width="957" alt="animated navigation" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/e1665a9e-9597-424c-862f-31bece3c6376">
+
 ---
 
 <h1 align="center">Custom Countdown</h1>
