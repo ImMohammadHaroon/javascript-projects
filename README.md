@@ -15,6 +15,7 @@
 <h1 align="center">Custom Countdown</h1>
 
 <p align="center">Create custom countdown timers for events and occasions.</p>
+<img width="958" alt="custum time-counter" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/a0234551-76ab-4899-a957-25299a2b7989">
 
 ---
 
