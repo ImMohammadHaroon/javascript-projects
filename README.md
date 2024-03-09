@@ -1,21 +1,32 @@
 <h1 align="center">Book Keeper</h1>
 
 <p align="center">A simple bookkeeping application.</p>
-<img width="947" alt="book_keeper" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/815c22ec-0c81-4969-a305-3c77e5d33c1b">
+
+
+
+https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/dbf5f7e9-46c1-4918-b1d7-e6d829e223e1
+
 
 ---
 
 <h1 align="center">Navigated Navigation</h1>
 
 <p align="center">A navigation system with advanced features for smooth browsing.</p>
-<img width="957" alt="animated navigation" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/e1665a9e-9597-424c-862f-31bece3c6376">
+
+
+https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/04899b11-8f9a-47bd-af14-79ed5d898a6e
+
 
 ---
 
 <h1 align="center">Custom Countdown</h1>
 
 <p align="center">Create custom countdown timers for events and occasions.</p>
-<img width="958" alt="custum time-counter" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/a0234551-76ab-4899-a957-25299a2b7989">
+
+
+
+https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/12a94697-6d5b-48db-9b2b-a70e10235347
+
 
 ---
 
