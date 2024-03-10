@@ -29,6 +29,14 @@ https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/12a946
 
 
 ---
+<h1 align="center">Calculator</h1>
+
+<p align="center">A calculato to solve your some problems.</p>
+
+
+
+---
+
 
 <h1 align="center">Drag and Drop</h1>
 
