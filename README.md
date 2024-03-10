@@ -102,6 +102,10 @@ https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/12a946
 
 <p align="center">Generate random quotes and display them on the web page.</p>
 
+
+https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/5d8f67ed-7f55-4ad6-a259-efdaff703d9a
+
+
 ---
 
 <h1 align="center">Splash Page</h1>
