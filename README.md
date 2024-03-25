@@ -31,8 +31,9 @@ https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/12a946
 ---
 <h1 align="center">Calculator</h1>
 
-<p align="center">A calculato to solve your some problems.</p>
+<p align="center">A calculator to solve your some problems.</p>
 
+<img width="958" alt="Calculator" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/e59e4561-a0d6-4adc-8a77-e0f9dfb2293e">
 
 
 ---
