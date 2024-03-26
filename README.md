@@ -1,4 +1,4 @@
-<h1 align="center">Book Keeper</h1>
+<img width="956" alt="drag and drop" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/13d0843b-fed8-4d41-85e7-5f9b9add9eaf"><h1 align="center">Book Keeper</h1>
 
 <p align="center">A simple bookkeeping application.</p>
 
@@ -33,7 +33,7 @@ https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/12a946
 
 <p align="center">A calculator to solve your some problems.</p>
 
-<img width="958" alt="Calculator" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/e59e4561-a0d6-4adc-8a77-e0f9dfb2293e">
+<img width="500" alt="Calculator" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/e59e4561-a0d6-4adc-8a77-e0f9dfb2293e">
 
 
 ---
@@ -42,6 +42,7 @@ https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/12a946
 <h1 align="center">Drag and Drop</h1>
 
 <p align="center">Implement drag-and-drop functionality for elements on a web page.</p>
+<img width="500" alt="drag and drop" src="https://github.com/ImMohammadHaroon/java-script-projects/assets/162042814/6185c0f4-468c-445c-9e04-263b03d22689">
 
 ---
 
